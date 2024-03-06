@@ -1,0 +1,1 @@
+nvcc $1 -o test && /usr/bin/ncu --metrics l1tex__t_sectors_pipe_lsu_mem_global_op_ld.sum,l1tex__t_requests_pipe_lsu_mem_global_op_ld.sum,smsp__sass_average_data_bytes_per_sector_mem_global_op_ld.pct,l1tex__average_t_sectors_per_request_pipe_lsu_mem_global_op_ld.ratio ./test

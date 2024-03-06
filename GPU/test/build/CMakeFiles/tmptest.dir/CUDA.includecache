@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhmeng/GPU/test/Num1.cu
+iostream
+-
+unistd.h
+-
+cuda_fp16.h
+/home/zhmeng/GPU/test/cuda_fp16.h
+
