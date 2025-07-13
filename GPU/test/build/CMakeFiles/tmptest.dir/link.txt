@@ -1,1 +1,0 @@
-/usr/bin/g++   CMakeFiles/tmptest.dir/Num1.cu.o CMakeFiles/tmptest.dir/cmake_device_link.o -o tmptest  -L"/usr/local/cuda-11.2/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-11.2/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

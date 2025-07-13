@@ -1,3 +1,0 @@
-/home/zhmeng/GPU/test/build/CMakeFiles/rebuild_cache.dir
-/home/zhmeng/GPU/test/build/CMakeFiles/tmptest.dir
-/home/zhmeng/GPU/test/build/CMakeFiles/edit_cache.dir

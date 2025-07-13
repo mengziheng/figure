@@ -1,1 +1,0 @@
-/usr/local/cuda-11.2/bin/nvcc   -gencode arch=compute_80,code=sm_80  -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/tmptest.dir/Num1.cu.o -o CMakeFiles/tmptest.dir/cmake_device_link.o 
